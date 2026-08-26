@@ -26,7 +26,7 @@ public class Main {
         String estatus = obtenerEstatus(promedio);
 
         System.out.println("Promedio: " + promedio);
-        System.out.println("Calificación mayor: " + mayor);
+        System.out.println("Calificación mayor registrada: " + mayor);
         System.out.println("Materias aprobadas: " + aprobadas);
         System.out.println("Estatus: " + estatus);
     }
